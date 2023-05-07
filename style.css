@@ -1,0 +1,14 @@
+li {
+    list-style: none;
+    width: 350px;
+    height: 220px;
+    border: dotted 2px red;
+    margin-bottom: 30px;
+    background-color: greenyellow;
+}
+p {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+}
